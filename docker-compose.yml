@@ -1,0 +1,9 @@
+services:
+  python:
+    build: .
+    image: pythonimg:abait-ta
+    container_name: pythonpool
+    volumes:
+    - .:/42-python-piscine
+    command: >
+      bash -c "tail -f"
