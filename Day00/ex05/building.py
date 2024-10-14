@@ -52,7 +52,7 @@ def main():
        + functionnalities will be called Here
     """
     provided_string = global_Validator(sys.argv)
-    print(f'The text contain {len(provided_string)}')
+    print(f'The text contain {len(provided_string)}') 
 
 
 if __name__ == '__main__':
