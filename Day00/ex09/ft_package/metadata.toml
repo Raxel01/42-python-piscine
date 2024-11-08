@@ -1,0 +1,14 @@
+Name: ft_package
+Version: 0.0.1
+Summary: 'ABDELALI AIT TALB first simple test package'
+Home-page: 
+Author: 
+Author-email: 
+License: MIT
+Location: 
+Requires:
+Required-by:
+Metadata-Version: 2.1
+Installer: pip
+Classifiers:
+Entry-points:
